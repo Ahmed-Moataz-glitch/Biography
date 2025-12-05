@@ -11,10 +11,7 @@
     <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn
   </a>
 
-  <a href="https://www.instagram.com/ahmd_amr_505" title="Instagram Profile">
-  <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"> Instagram
-</a>
-<a href="https://www.facebook.com/ahnedanrf55" title="Facebook Profile">
+<a href="https://www.facebook.com/ahmd.m.tz.zghlwl/" title="Facebook Profile">
     <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"> Facebook
 </a>
 
@@ -24,14 +21,14 @@
 <br>
 
 <p align="center">
-  Hi, I'm <strong>Ahmed Amr</strong>, a passionate <strong>Flutter Mobile App Developer</strong> from Egypt.
+  Hi, I'm <strong>Ahmed Moataz</strong>, a passionate <strong>Flutter Mobile App Developer</strong> from Egypt.
   <br><br>
   🎓 Bachelor of Computer Science  
   💻 I build clean, scalable, and high-performance mobile apps using Flutter & Dart.  
   🚀 I focus on Clean Architecture, SOLID Principles, and Responsive UI.  
   📚 Improving in Firebase, State Management (Bloc/Provider), and API integrations.  
   💬 Ask me anything via GitHub Issues.  
-  📫 Reach me at → <a href="mailto:ahnedanrf55@gmail.com">ahnedanrf55@gmail.com</a>
+  📫 Reach me at → <a href="mailto:ahmedmoataz221104@gmail.com">ahmedmoataz221104@gmail.com</a>
 </p>
 
 <hr>
