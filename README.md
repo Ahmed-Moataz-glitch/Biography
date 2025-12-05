@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ahmedamr.ahmedamr">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ahmedmoataz.ahmedmoataz">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Ahmed+Amr...;Mobile+App+Developer!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Ahmed+Moataz...;Mobile+App+Developer!&center=true&size=30">
   </a>
 </h1>
 
