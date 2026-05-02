@@ -48,7 +48,7 @@
   <code><img title="Android Studio" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"></code>
   <code><img title="SQLite" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"></code>
   <code><img title="JSON" height="25" src="https://img.icons8.com/ios/50/json--v1.png"></code>
-  <code><img title="UI/UX" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
+  <code><img title="Figma" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
 </p>
 
 
