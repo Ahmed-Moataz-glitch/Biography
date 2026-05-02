@@ -10,12 +10,6 @@
   <a href="https://www.linkedin.com/in/ahmed-amr-f55" title="LinkedIn Profile">
     <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn
   </a>
-
-<a href="https://www.facebook.com/ahmd.m.tz.zghlwl/" title="Facebook Profile">
-    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"> Facebook
-</a>
-
-
 </h5>
 
 <br>
