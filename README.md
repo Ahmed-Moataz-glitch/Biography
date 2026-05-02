@@ -36,6 +36,7 @@
   <code><img title="Firebase" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code>
   <code><img title="Supabase" height="25" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/supabase/supabase-original.svg"></code>
   <code><img title="REST API" height="25" src="https://img.icons8.com/ios/50/api-settings.png"></code>
+  <code><img title="Postman" height="25" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postman/postman-original.svg"></code>
   <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
   <code><img title="VS Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
